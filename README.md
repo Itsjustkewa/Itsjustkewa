@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Itsjustkewa
 - 👀 I’m interested in 🎶  Sound Design in 🎮 Video Games 
-- 🌱 I’m currently learning C# with Unity with the addition of FMOD for Musical Intergation
+- 🌱 I’m currently learning C# with Unity with the addition of FMOD for Audio intergrations 
 - 💞️ I’m looking to collaborate on Sounds in Video Games
 - 📫 How to reach me : itsjustkewa@gmail.com
 
