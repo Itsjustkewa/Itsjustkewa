@@ -1,4 +1,4 @@
-#The Playful Genius
+# The Playful Genius
 - 
 -   👋 Hi, I’m @Itsjustkewa
 - 👀 I’m interested in 🎶  Audio in 🎮 Video Games 
